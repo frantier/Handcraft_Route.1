@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Handcraft_Route.infrastructure\Handcraft_Route.infrastructure.csproj" />
+    <ProjectReference Include="..\Handcraft_Route.domain\Handcraft_Route.domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
